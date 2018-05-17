@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rental Property</string>
+    <string name="address">Address of Village Oaks \n 104 Serenity Lane \n Willow, AZ 55590 \n Phone: (555) 365-7700</string>
+    <string name="cost">Cost Range \n $750 - $875</string>
+</resources>

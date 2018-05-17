@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Healthy Recipe</string>
+    <string name="ingredients">Ingredient \n 4 chopped tomatoes \n 1 small chooped onion \n 4 miced garlic cloves \n 1/4 cup chopped fresh cilantro</string>
+    <string name="preparation">Preparation \n Combine all ingredients. Add salt to taste.</string>
+</resources>
