@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My first demo Program</string>
+    <string name="ingredients">Ingredients: \n Apple \n Sugar \n and something</string>
+</resources>
