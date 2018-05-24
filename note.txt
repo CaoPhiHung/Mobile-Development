@@ -1,3 +1,5 @@
 layout: Linnerlayout - vertical
 wrap_content -> using layout gravity
-macth parent -> gravity - center -horizontal
+match_parent -> gravity - center -horizontal
+* both element (with layout match_parent) same row will devide the width equaly
+* 				with layout wrap_content: strink the width
