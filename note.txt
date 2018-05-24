@@ -1,0 +1,3 @@
+layout: Linnerlayout - vertical
+wrap_content -> using layout gravity
+macth parent -> gravity - center -horizontal
