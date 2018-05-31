@@ -1,0 +1,1 @@
+make sure each event have limitted seat - proper way to inform customer a head of time
