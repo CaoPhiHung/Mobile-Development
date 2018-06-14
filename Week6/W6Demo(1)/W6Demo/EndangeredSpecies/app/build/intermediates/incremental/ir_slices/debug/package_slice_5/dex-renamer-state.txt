@@ -1,0 +1,4 @@
+#Thu Jun 14 11:00:00 PDT 2018
+base.0=C\:\\Users\\300279621\\Desktop\\Mobile-Development\\Week6\\W6Demo(1)\\W6Demo\\EndangeredSpecies\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

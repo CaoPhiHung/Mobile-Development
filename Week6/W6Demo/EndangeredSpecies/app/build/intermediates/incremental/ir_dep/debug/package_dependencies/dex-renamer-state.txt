@@ -1,4 +1,0 @@
-#Tue Jun 12 17:04:17 PDT 2018
-base.0=C\:\\Users\\steve\\Desktop\\Work\\2018\\Summer\\csis3175\\Book\\BootCamp\\instructor\\W6Demo\\EndangeredSpecies\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
-path.0=classes.dex
-renamed.0=classes.dex
